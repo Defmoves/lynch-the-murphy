@@ -11,12 +11,18 @@ As well as having a laugh and giving us an excuse to collaborate, this also pres
 _For your consideration:_
 
 ### [Unity](https://unity.com/) 
+➕
 Has a relatively low barrier to entry, cross platform support and huge, well established community. 
 
+➖
 The only issue is it's reliance on C#. That said it does seem possible integrate [RUST](https://dev.to/manhunterita/call-into-rust-from-c-and-unity-23bp) here.
 
 ### [Bevy](https://bevyengine.org/)
+➕
 New on the scene yet met with huge community excitement it is open source and [Rust based](https://www.rust-lang.org/)[Bevy](https://bevyengine.org/) engine.
+
+➖
+It's still very young, and is only a library. There are no GUIs yet (though they will likely come) right now it's all code based.
 
 ## Further reading
 
