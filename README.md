@@ -1,4 +1,4 @@
-# Lynch the-Murphy 👹
+# Lynch the Murphy 👹
 Immersive, twitch shooter, FPS, TPS, YMCA, platform jumper, fighting, driving rogue like to the Moon :rocket:
 
 
