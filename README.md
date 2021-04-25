@@ -23,6 +23,3 @@ New on the scene yet met with huge community excitement it is open source and [R
 * [BEVY Rust Game Engine -- My Fav Yet! (Youtube)](https://www.youtube.com/watch?v=buUw0xAs4KM)
 * [Why Rust is the Future of Game Development](https://thefuntastic.com/blog/why-rust-is-the-future-game-dev)
 * [(Rust) Are we game yet?](https://arewegameyet.rs/#chat)
-
-
-
