@@ -27,13 +27,14 @@ Not as popular or as successful as [Unity](https://unity.com/). Reliant on thrd 
 
 ### [Bevy](https://bevyengine.org/)
 ➕
-New on the scene yet met with huge community excitement it is open source and [Rust native](https://www.rust-lang.org/) game library.
+New on the scene yet met with huge community excitement it is open source and [Rust native](https://www.rust-lang.org/) game library. Which is well documented.
 
 ➖
 It's still very young, and is only a library. There are no GUIs yet (though they will likely come) right now it's all code based.
 
-## Further reading
+## Further reading/watching
 
 * [BEVY Rust Game Engine -- My Fav Yet! (Youtube)](https://www.youtube.com/watch?v=buUw0xAs4KM)
 * [Why Rust is the Future of Game Development](https://thefuntastic.com/blog/why-rust-is-the-future-game-dev)
 * [(Rust) Are we game yet?](https://arewegameyet.rs/#chat)
+* [BEVY 0.5 -- Rust Game Engine Updated (Youtube)](https://www.youtube.com/watch?v=wSrFonPZ3yY)
