@@ -17,9 +17,17 @@ Has a relatively low barrier to entry, cross platform support and huge, well est
 ➖
 The only issue is it's reliance on C#. That said it does seem possible integrate [RUST](https://dev.to/manhunterita/call-into-rust-from-c-and-unity-23bp) here.
 
+### [Godot](https://godotengine.org/) 
+
+➕
+A mature open source game engine, which can work with [Rust](https://www.rust-lang.org/) via the third party project, [godot-rust](https://godot-rust.github.io/)
+
+➖
+Not as popular or as successful as [Unity](https://unity.com/). Reliant on thrd party to use [Rust](https://www.rust-lang.org/). 
+
 ### [Bevy](https://bevyengine.org/)
 ➕
-New on the scene yet met with huge community excitement it is open source and [Rust based](https://www.rust-lang.org/)[Bevy](https://bevyengine.org/) engine.
+New on the scene yet met with huge community excitement it is open source and [Rust native](https://www.rust-lang.org/) game library.
 
 ➖
 It's still very young, and is only a library. There are no GUIs yet (though they will likely come) right now it's all code based.
